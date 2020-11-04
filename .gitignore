@@ -1,0 +1,5 @@
+/node_modules
+/backend/logs
+/backend/public
+/client/node_modules
+/client/dist
